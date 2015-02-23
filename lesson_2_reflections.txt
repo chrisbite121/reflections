@@ -1,0 +1,7 @@
+What happens when you initialize a repository? why do you need to do it?
+
+a hidden directory called .git is created.  this allows us to control changes using gits version control
+
+How is the staging area different from the working directory and the repository? what value do you think it offers
+
+It allows users to decide which files in the working directory to commit to the repository	
